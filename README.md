@@ -1,16 +1,28 @@
-## Hi there 👋
+## Hi there 👋  I'm Ananya
 
-<!--
-**helloananya/helloananya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎨 Aspiring UI/UX Designer  
+💻 Learning Frontend Development  
+📚 Currently building projects to improve my skills  
+✨ Exploring design + code to create beautiful, user-friendly experiences
 
-Here are some ideas to get you started:
+## 🧩 Tech & Tools I Use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- HTML • CSS • JavaScript  
+- React • Tailwind CSS  
+- Node.js • MongoDB (learning stage)  
+- Figma • Canva • CorelDRAW • Photoshop
+
+## ✨ What I’m Working On
+
+- Building full-stack mini projects with the MERN stack  
+- Designing & coding responsive frontend UIs  
+- Exploring UI/UX principles
+
+## 🌻 Fun Fact
+
+I love pastel aesthetics, clean layouts, and that magical moment when design meets functionality ✨
+
+---
+
+📫 Let’s connect, share ideas, and grow together!  
+I’m open to collabs, feedback, and tech/design inspiration 🌱
